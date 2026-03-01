@@ -369,277 +369,277 @@
       },
       {
         "name": "2048",
-        "path": "2048/index.html",
+        "path": "Data/2048/index.html",
         "img": "2048.jpg"
       },
       {
         "name": "Basketball Stars",
-        "path": "bstars/index.html",
+        "path": "Data/bstars/index.html",
         "img": "bstars.jpg"
       },
       {
         "name": "BlackJack",
-        "path": "blackjack/index.html",
+        "path": "Data/blackjack/index.html",
         "img": "blackjack.jpg"
       },
       {
         "name": "Block Blast",
-        "path": "blockblast/index.html",
+        "path": "Data/blockblast/index.html",
         "img": "blockblast.jpg"
       },
       {
         "name": "Click Test",
-        "path": "click/index.html",
+        "path": "Data/click/index.html",
         "img": "click.jpg"
       },
       {
         "name": "Cookie Clicker",
-        "path": "cookieclicker/index.html",
+        "path": "Data/cookieclicker/index.html",
         "img": "cookie.jpg"
       },
       {
         "name": "City Car Driving Stunt Master",
-        "path": "CityCarDrivingStuntMaster/index.html",
+        "path": "Data/CityCarDrivingStuntMaster/index.html",
         "img": "CityCarDrivingStuntMaster.jpg"
       },
       {
         "name": "Crossy Road",
-        "path": "crossyroad/index.html",
+        "path": "Data/crossyroad/index.html",
         "img": "crossyroad.jpg"
       },
       {
         "name": "Cut The Rope",
-        "path": "ctr/index.html",
+        "path": "Data/ctr/index.html",
         "img": "ctr.jpg"
       },
       {
         "name": "Dinosaur Game",
-        "path": "dino/index.html",
+        "path": "Data/dino/index.html",
         "img": "googdino.jpg"
       },
       {
         "name": "Drive Mad",
-        "path": "drivemad/1/index.html",
+        "path": "Data/drivemad/1/index.html",
         "img": "drivemad.jpg"
       },
       {
         "name": "Escape Road",
-        "path": "escape-road/index.html",
+        "path": "Data/escape-road/index.html",
         "img": "escaperoad.jpg"
       },
       {
         "name": "Escape Road 2",
-        "path": "escape-road-2/index.html",
+        "path": "Data/escape-road-2/index.html",
         "img": "escaperoad2.jpg"
       },
       {
         "name": "Escape Road City",
-        "path": "escape-road-city/index.html",
+        "path": "Data/escape-road-city/index.html",
         "img": "escaperoadcity.jpg"
       },
       {
         "name": "Escape Road City 2",
-        "path": "escape-road-city-2/index.html",
+        "path": "Data/escape-road-city-2/index.html",
         "img": "escaperoadcity2.jpg"
       },
       {
         "name": "FNAF",
-        "path": "fnaf/1/index.html",
+        "path": "Data/fnaf/1/index.html",
         "img": "fnaf.jpg"
       },
       {
         "name": "FNAF 2",
-        "path": "fnaf/2/index.html",
+        "path": "Data/fnaf/2/index.html",
         "img": "fnaf2.jpg"
       },
       {
         "name": "FNAF 3",
-        "path": "fnaf/3/index.html",
+        "path": "Data/fnaf/3/index.html",
         "img": "fnaf3.jpg"
       },
       {
         "name": "Funny Battle Simulator",
-        "path": "FunnyBattle/index.html",
+        "path": "Data/FunnyBattle/index.html",
         "img": "FunnyBattleSimulator.jpg"
       },
       {
         "name": "Funny Battle Simulator 2",
-        "path": "FunnyBattle2/index.html",
+        "path": "Data/FunnyBattle2/index.html",
         "img": "FunnyBattleSimulator2.jpg"
       },
       {
         "name": "Funny Shooter",
-        "path": "FunnyShooter/index.html",
+        "path": "Data/FunnyShooter/index.html",
         "img": "FunnyShooter.jpg"
       },
       {
         "name": "Funny Shooter 2",
-        "path": "FunnyShooter2/index.html",
+        "path": "Data/FunnyShooter2/index.html",
         "img": "FunnyShooter2.jpg"
       },
       {
         "name": "Gangster Crimes Online",
-        "path": "GangsterCrimesOnline/index.html",
+        "path": "Data/GangsterCrimesOnline/index.html",
         "img": "GangsterCrimesOnline.jpg"
       },
       {
         "name": "Geometry Dash",
-        "path": "geometrydash/lite/index.html",
+        "path": "Data/geometrydash/lite/index.html",
         "img": "geodashlite.jpg"
       },
       {
         "name": "Geometry Dash: Subzero",
-        "path": "geometrydash/subzero/index.html",
+        "path": "Data/geometrydash/subzero/index.html",
         "img": "geodashsub.jpg"
       },
       {
         "name": "Geometry Dash: Word",
-        "path": "geometrydash/world/index.html",
+        "path": "Data/geometrydash/world/index.html",
         "img": "geodashworld.jpg"
       },
       {
         "name": "JS Racer",
-        "path": "js-racer/index.html",
+        "path": "Data/js-racer/index.html",
         "img": "JS-Racer.jpg"
       },
       {
         "name": "Snake",
-        "path": "snake/index.html",
+        "path": "Data/snake/index.html",
         "img": "googsnake.jpg"
       },
       {
         "name": "Stunt Bike Extreme",
-        "path": "stunt-bike-extreme/index.html",
+        "path": "Data/stunt-bike-extreme/index.html",
         "img": "stuntbikeextreme.jpg"
       },
       {
         "name": "Stunt Bike Extreme+",
-        "path": "stunt-bike-extreme+/index.html",
+        "path": "Data/stunt-bike-extreme+/index.html",
         "img": "stuntbikeextreme+.jpg"
       },
       {
         "name": "Stunt Car Extreme",
-        "path": "stunt-car-extreme/index.html",
+        "path": "Data/stunt-car-extreme/index.html",
         "img": "stuntcarextreme.jpg"
       },
       {
         "name": "Grand Shift Auto",
-        "path": "gta/index.html",
+        "path": "Data/gta/index.html",
         "img": "gta.jpg"
       },
       {
         "name": "Happy Wheels",
-        "path": "hw/index.html",
+        "path": "Data/hw/index.html",
         "img": "hw.jpg"
       },
       {
         "name": "Mari0",
-        "path": "mari0/index.html",
+        "path": "Data/mari0/index.html",
         "img": "mario.jpg"
       },
       {
         "name": "Minesweeper",
-        "path": "minesweep/index.html",
+        "path": "Data/minesweep/index.html",
         "img": "minesweep.jpg"
       },
       {
         "name": "Eaglercraft",
-        "path": "eaglercraft/index.html",
+        "path": "Data/eaglercraft/index.html",
         "img": "eagler.jpg"
       },
       {
         "name": "MotoX3M",
-        "path": "motox3m/index.html",
+        "path": "Data/motox3m/index.html",
         "img": "motox3m.jpg"
       },
       {
         "name": "MotoX3M 2",
-        "path": "motox3m2/index.html",
+        "path": "Data/motox3m2/index.html",
         "img": "motox3m2.jpg"
       },
       {
         "name": "Ragdoll Playground",
-        "path": "RagdollPlayground/index.html",
+        "path": "Data/RagdollPlayground/index.html",
         "img": "RagdollPlayground.jpg"
       },
       {
         "name": "Retro Bowl",
-        "path": "retrobowl/index.html",
+        "path": "Data/retrobowl/index.html",
         "img": "retrobowl.jpg"
       },
       {
         "name": "Retro Bowl College",
-        "path": "retrobowlcollege/index.html",
+        "path": "Data/retrobowlcollege/index.html",
         "img": "retrobowlcollege.jpg"
       },
       {
         "name": "Rooftop Snipers",
-        "path": "RoofSnipe/index.html",
+        "path": "Data/RoofSnipe/index.html",
         "img": "roofsnipe.jpg"
       },
       {
         "name": "Run 3",
-        "path": "run3/index.html",
+        "path": "Data/run3/index.html",
         "img": "run3.jpg"
       },
       {
         "name": "Steal Brainrot Duel",
-        "path": "StealBrainrotDuel/index.html",
+        "path": "Data/StealBrainrotDuel/index.html",
         "img": "StealBrainrotDuel.jpg"
       },
       {
         "name": "Slope",
-        "path": "slope/index.html",
+        "path": "Data/slope/index.html",
         "img": "slope.jpg"
       },
       {
         "name": "Spacebar Clicker",
-        "path": "spacebarclick/index.html",
+        "path": "Data/spacebarclick/index.html",
         "img": "spacebarclick.jpg"
       },
       {
         "name": "Spacebar Smasher",
-        "path": "spacebar/index.html",
+        "path": "Data/spacebar/index.html",
         "img": "spacebar.jpg"
       },
       {
         "name": "Subway Surfers",
-        "path": "SubwaySurfers/index.html",
+        "path": "Data/SubwaySurfers/index.html",
         "img": "subway.jpg"
       },
       {
         "name": "Super Mario 64 WASM",
-        "path": "sm64/index.html",
+        "path": "Data/sm64/index.html",
         "img": "sm64.jpg"
       },
       {
         "name": "Tap Road",
-        "path": "TapRoad/index.html",
+        "path": "Data/TapRoad/index.html",
         "img": "TapRoad.jpg"
       },
       {
         "name": "Time Shooter",
-        "path": "TimeShooter/index.html",
+        "path": "Data/TimeShooter/index.html",
         "img": "TimeShooter.jpg"
       },
       {
         "name": "Time Shooter 2",
-        "path": "TimeShooter2/index.html",
+        "path": "Data/TimeShooter2/index.html",
         "img": "TimeShooter2.jpg"
       },
       {
         "name": "Time Shooter 3",
-        "path": "TimeShooter3/index.html",
+        "path": "Data/TimeShooter3/index.html",
         "img": "TimeShooter3.jpg"
       },
       {
         "name": "Tomb of the Mask",
-        "path": "totm/index.html",
+        "path": "Data/totm/index.html",
         "img": "totm.jpg"
       },
       {
         "name": "Ultimate Flying Car",
-        "path": "UltimateFlyingCar/index.html",
+        "path": "Data/UltimateFlyingCar/index.html",
         "img": "UltimateFlyingCar.jpg"
       },
       {
@@ -649,7 +649,7 @@
       },
       {
         "name": "Wolfenstein JS",
-        "path": "wolfen/index.html",
+        "path": "Data/wolfen/index.html",
         "img": "wolfjs.jpg"
       }
     ]
@@ -659,12 +659,12 @@
     "games": [
       {
         "name": "2v2.io",
-        "path": "2v2/index.html",
+        "path": "Data/2v2/index.html",
         "img": "2v2.jpg"
       },
       {
         "name": "Poxel.io",
-        "path": "poxel/index.html",
+        "path": "Data/poxel/index.html",
         "img": "poxel.jpg"
       }
     ]
